@@ -151,3 +151,12 @@ model DirectMessage {
   @@index([memberId])
   @@index([conversationId])
 }
+
+
+
+
+
+// commands 
+// npx prisma init 
+// npx prisma generate 
+// npx prisma db push 
